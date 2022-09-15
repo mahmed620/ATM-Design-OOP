@@ -1,0 +1,5 @@
+﻿  Account.cpp
+  main.cpp
+  Generating Code...
+C:\Users\we\source\repos\ATM Design OOP\ATM Design OOP\Account.cpp(17): warning C4715: 'Account::withdrawal': not all control paths return a value
+  ATM Design OOP.vcxproj -> C:\Users\we\source\repos\ATM Design OOP\Debug\ATM Design OOP.exe
